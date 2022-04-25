@@ -1,5 +1,5 @@
 ```
-go get github.com/fobus1289/marshrudka
+go get github.com/fobus1289/go-ez-roter
 ```
 
 ```go
