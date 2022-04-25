@@ -2,8 +2,8 @@ package router
 
 import (
 	"encoding/json"
-	request2 "github.com/fobus1289/marshrudka/router/request"
-	"github.com/fobus1289/marshrudka/router/response"
+	request2 "github.com/fobus1289/go-ez-roter/router/request"
+	"github.com/fobus1289/go-ez-roter/router/response"
 	"net/http"
 	"reflect"
 	"strconv"

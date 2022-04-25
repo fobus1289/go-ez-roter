@@ -3,7 +3,7 @@ package router
 import (
 	"context"
 	"fmt"
-	request2 "github.com/fobus1289/marshrudka/router/request"
+	request2 "github.com/fobus1289/go-ez-roter/router/request"
 	"log"
 	"net/http"
 	"path"

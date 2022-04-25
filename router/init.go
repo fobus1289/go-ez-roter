@@ -1,7 +1,7 @@
 package router
 
 import (
-	"github.com/fobus1289/marshrudka/router/response"
+	"github.com/fobus1289/go-ez-roter/router/response"
 	"net/http"
 	"sync"
 )
